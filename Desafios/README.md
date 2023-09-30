@@ -7,7 +7,9 @@ Para esse **desafio**, considere que você foi contratado por uma empresa bancá
 - **Entrada**:
 
 *saldoAtual*: um número decimal representando o saldo atual da conta bancária.
+
 *valorDeposito*: um número decimal representando o valor a ser depositado na conta.
+
 *valorRetirada*: um número decimal representando o valor a ser retirado da conta.
 
 *Regra de Formatação*: Considere apenas uma casa decimal para esse desafio.
